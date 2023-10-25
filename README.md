@@ -17,8 +17,8 @@
 
 ## 4. Regression Analysis
 #### For the regression analysis we are choosing the relationship between the number of outpatient visits (independent variable) and the overall rate per 1000 (dependent variable) related to healthcare
-### Null Hypothesis (H0): The number of outpatient visits does not predict the overall rate per 1000 related to healthcare.
-### Alternative Hypothesis (H1): The number of outpatient visits predicts the overall rate per 1000 related to healthcare.
+#### Null Hypothesis (H0): The number of outpatient visits does not predict the overall rate per 1000 related to healthcare.
+#### Alternative Hypothesis (H1): The number of outpatient visits predicts the overall rate per 1000 related to healthcare.
 
 ### Interpretation
 #### Based on the regression analysis and the high p-value for the coefficient of outpatient visits, there is not enough evidence to reject the null hypothesis. The number of outpatient visits does not appear to be a significant predictor of the overall rate per 1000 related to healthcare in this dataset. The relationship between these variables is weak, and the number of outpatient visits alone does not provide a meaningful prediction of the overall rate per 1000.
